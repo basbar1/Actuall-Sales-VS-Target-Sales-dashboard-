@@ -3,6 +3,11 @@
 An interactive Power BI dashboard that tracks sales performance against targets across products, months, regions, and sales representatives (2022–2023).
 
 
+
+![Dashboard](images/dashboard.jpg)
+
+
+
 ## Business Problem
 Does the company meet its sales targets? Which regions, months, and sales reps are over- or under-performing, and where should management focus?
 
