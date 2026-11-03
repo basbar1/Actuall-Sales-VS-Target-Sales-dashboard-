@@ -4,9 +4,6 @@ An interactive Power BI dashboard that tracks sales performance against targets 
 
 
 
-![Dashboard](Screenshot2026-11-04004259.jpg)
-
-
 
 ## Business Problem
 Does the company meet its sales targets? Which regions, months, and sales reps are over- or under-performing, and where should management focus?
