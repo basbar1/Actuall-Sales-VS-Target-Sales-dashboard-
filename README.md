@@ -4,7 +4,7 @@ An interactive Power BI dashboard that tracks sales performance against targets 
 
 
 
-![Dashboard](Screenshot 2026-11-04 004259.jpg)
+![Dashboard](Screenshot2026-11-04004259.jpg)
 
 
 
